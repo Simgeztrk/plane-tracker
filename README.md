@@ -63,7 +63,17 @@ Launches the test runner in interactive watch mode.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+Copyright (c) 2025 Simge Öztürk
+
+All rights reserved.
+
+This software is protected by copyright law and international treaties. 
+Unauthorized reproduction or distribution of this software, or any portion of it, 
+may result in severe civil and criminal penalties.
+
+This code may not be used, copied, modified, merged, published, distributed, sublicensed, 
+or sold without the express written permission of the copyright holder.
+
 
 ---
 
