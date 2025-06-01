@@ -1,0 +1,104 @@
+{
+  "planes": [
+    {
+      "id": 1,
+      "name": "SkyFalcon",
+      "latitude": 38.81573700207756,
+      "longitude": 36.85205462319012,
+      "altitude": 10007,
+      "speed": 733,
+      "status": "Cruising",
+      "heading": 81.02366321601806
+    },
+    {
+      "id": 2,
+      "name": "JetEagle",
+      "latitude": 42.25372249047345,
+      "longitude": 33.65703237147031,
+      "altitude": 9210,
+      "speed": 739,
+      "status": "Cruising",
+      "heading": 83.19707616106666
+    },
+    {
+      "id": 3,
+      "name": "CloudDancer",
+      "latitude": 39.558839841781825,
+      "longitude": 22.91991015971285,
+      "altitude": 9265,
+      "speed": 741,
+      "status": "Flying",
+      "heading": 318.8116039815918
+    },
+    {
+      "id": 4,
+      "name": "NightOwl",
+      "latitude": 40.080107560496735,
+      "longitude": 30.181240318627697,
+      "altitude": 9028,
+      "speed": 735,
+      "status": "Flying",
+      "heading": 274.4067158063881
+    },
+    {
+      "id": 5,
+      "name": "FalconX",
+      "latitude": 37.83571614508255,
+      "longitude": 39.36634121847135,
+      "altitude": 9613,
+      "speed": 715,
+      "status": "Cruising",
+      "heading": 55.51452420133279
+    },
+    {
+      "id": 6,
+      "name": "AirNova",
+      "latitude": 37.25730566515546,
+      "longitude": 31.841596043813034,
+      "altitude": 10601,
+      "speed": 700,
+      "status": "Flying",
+      "heading": 167.86390048995452
+    },
+    {
+      "id": 7,
+      "name": "ThunderJet",
+      "latitude": 38.29712769141616,
+      "longitude": 23.593872045040083,
+      "altitude": 10157,
+      "speed": 706,
+      "status": "Cruising",
+      "heading": 217.743185433872
+    },
+    {
+      "id": 8,
+      "name": "SkyRaider",
+      "latitude": 37.77360547361572,
+      "longitude": 35.37126559130009,
+      "altitude": 9000,
+      "speed": 706,
+      "status": "Flying",
+      "heading": 184.26660293633324
+    },
+    {
+      "id": 9,
+      "name": "JetWhale",
+      "latitude": 39.731797465901074,
+      "longitude": 30.403265914095634,
+      "altitude": 10236,
+      "speed": 865,
+      "status": "Cruising",
+      "heading": 187.5271294518243
+    },
+    {
+      "id": 10,
+      "name": "StarWing",
+      "latitude": 35.36494116718637,
+      "longitude": 29.048623700884594,
+      "altitude": 9251,
+      "speed": 702,
+      "status": "Flying",
+      "heading": 230.80461229911225
+    }
+  ]
+}

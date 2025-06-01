@@ -1,0 +1,104 @@
+{
+  "planes": [
+    {
+      "id": 1,
+      "name": "SkyFalcon",
+      "latitude": 39.9208,
+      "longitude": 32.8541,
+      "altitude": 10328,
+      "speed": 744,
+      "status": "Cruising",
+      "heading": 120.0
+    },
+    {
+      "id": 2,
+      "name": "JetEagle",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "altitude": 9763,
+      "speed": 765,
+      "status": "Cruising",
+      "heading": 60.0
+    },
+    {
+      "id": 3,
+      "name": "CloudDancer",
+      "latitude": 38.4237,
+      "longitude": 27.1428,
+      "altitude": 9324,
+      "speed": 701,
+      "status": "Flying",
+      "heading": 270.0
+    },
+    {
+      "id": 4,
+      "name": "NightOwl",
+      "latitude": 36.8969,
+      "longitude": 30.7133,
+      "altitude": 9117,
+      "speed": 724,
+      "status": "Flying",
+      "heading": 45.0
+    },
+    {
+      "id": 5,
+      "name": "FalconX",
+      "latitude": 37.0,
+      "longitude": 35.3213,
+      "altitude": 9289,
+      "speed": 712,
+      "status": "Cruising",
+      "heading": 90.0
+    },
+    {
+      "id": 6,
+      "name": "AirNova",
+      "latitude": 40.1828,
+      "longitude": 29.0665,
+      "altitude": 10269,
+      "speed": 730,
+      "status": "Flying",
+      "heading": 135.0
+    },
+    {
+      "id": 7,
+      "name": "ThunderJet",
+      "latitude": 39.6484,
+      "longitude": 27.8826,
+      "altitude": 10135,
+      "speed": 722,
+      "status": "Cruising",
+      "heading": 270.0
+    },
+    {
+      "id": 8,
+      "name": "SkyRaider",
+      "latitude": 41.2867,
+      "longitude": 36.33,
+      "altitude": 9098,
+      "speed": 757,
+      "status": "Flying",
+      "heading": 200.0
+    },
+    {
+      "id": 9,
+      "name": "JetWhale",
+      "latitude": 40.55,
+      "longitude": 34.95,
+      "altitude": 9681,
+      "speed": 711,
+      "status": "Cruising",
+      "heading": 305.0
+    },
+    {
+      "id": 10,
+      "name": "StarWing",
+      "latitude": 37.87,
+      "longitude": 32.48,
+      "altitude": 10228,
+      "speed": 751,
+      "status": "Flying",
+      "heading": 230.0
+    }
+  ]
+}
